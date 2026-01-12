@@ -17,7 +17,7 @@ from gtts import gTTS
 import tempfile
 import numpy as np
 from unidecode import unidecode
-//omar was here
+//omar was here.
 os.environ["GROQ_API_KEY"] = "Add your own GROQ API key, Its very easy"
 
 # Load Whisper model
